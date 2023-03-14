@@ -1,5 +1,7 @@
 body {
 	background-image: url("GymBackground.jpg");
+	background-position: cover;
+	background-repeat: no-repeat;
 }
 .header {
 	text-align: center;
