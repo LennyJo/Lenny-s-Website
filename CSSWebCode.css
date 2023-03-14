@@ -2,6 +2,7 @@ body {
 	background-image: url("GymBackground.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: center;
 }
 .header {
 	text-align: center;
