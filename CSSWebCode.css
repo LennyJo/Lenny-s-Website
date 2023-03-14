@@ -1,3 +1,7 @@
 body {
 	background-image: url("GymBackground.jpg");
 }
+.header {
+	text-align: centre;
+	color: white;
+}
